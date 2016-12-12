@@ -1,0 +1,25 @@
+{
+  "name": "validateemail",
+  "version": "1.0.0",
+  "description": "Simple email validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashasm/validate-email.git"
+  },
+  "keywords": [
+    "email validation",
+    "validation",
+    "validate email",
+    "simple email validate"
+  ],
+  "author": "Basha Shaik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bashasm/validate-email/issues"
+  },
+  "homepage": "https://github.com/bashasm/validate-email#readme"
+}
