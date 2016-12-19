@@ -1,0 +1,24 @@
+{
+  "name": "validate-email",
+  "description": "Simple email validator",
+  "main": "index.js",
+  "authors": [
+    "Basha Shaik<basha502@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "email validation",
+    "validation",
+    "simple",
+    "email",
+    "validate"
+  ],
+  "homepage": "https://github.com/bashasm/validate-email",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
